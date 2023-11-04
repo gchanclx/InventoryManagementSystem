@@ -209,7 +209,6 @@ namespace IMS.NUnit.Tests.RepositoriesTests
                 Assert.That(_dbContext, Is.Not.Null);
                 Assert.That(sut, Is.Not.Null);
                 Assert.That(result, Is.Not.Null);
-                Assert.That(result, Is.Not.Null);
             });
         }
 
